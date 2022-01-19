@@ -1,4 +1,5 @@
 # estimativaDePose
+Este projeto detecta a pose de uma pessoa através de landmarks
 -----------------------------------------------------------------------------------------------------------------
 
 Este projeto detecta a pose de uma pessoa através de landmarks, para isso foi desenvolvido um módulo que basta ser 
